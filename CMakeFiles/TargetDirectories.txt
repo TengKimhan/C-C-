@@ -1,0 +1,3 @@
+/home/openailab/Desktop/Assignment4/CMakeFiles/rebuild_cache.dir
+/home/openailab/Desktop/Assignment4/CMakeFiles/Assignment4.dir
+/home/openailab/Desktop/Assignment4/CMakeFiles/edit_cache.dir

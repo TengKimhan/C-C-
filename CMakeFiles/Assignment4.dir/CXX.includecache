@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/openailab/Desktop/Assignment4/Matrix.hpp
+iostream
+-
+cassert
+-
+iomanip
+-
+cmath
+-
+
+/home/openailab/Desktop/Assignment4/main.cpp
+Matrix.hpp
+/home/openailab/Desktop/Assignment4/Matrix.hpp
+iostream
+-
+
+/home/openailab/Desktop/Assignment4/matrix.cpp
+Matrix.hpp
+/home/openailab/Desktop/Assignment4/Matrix.hpp
+
